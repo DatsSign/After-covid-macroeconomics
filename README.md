@@ -19,7 +19,7 @@ The data cleaning phase was a **"meditative"** process, focusing on:
 * **Data Integrity Note:** In the raw dataset, Canada's reported Money Supply appeared larger than that of the USA. Since this indicates non-validated raw data, certain deep-dive opportunities were limited.
 * **Logic Preservation:** Despite these discrepancies, the core analytical logic and the relationship-mapping framework within the dashboard remain fully functional and structurally sound.
 
-![Global Overview](media/page_1.png)
+* [Part 1: UI & Global Trends](media/dashB_vid_part1.mp4)
 
 ---
 
@@ -30,4 +30,26 @@ The data cleaning phase was a **"meditative"** process, focusing on:
 
 ---
 
-> **Note:** You can find the project demonstration video `dashB_vid.mp4` in the media folder of this repository.
+### Page 1: Global Macroeconomic Overview
+The analysis begins with a high-level view of global inflation dynamics. Using **Shape Maps**, I visualized the geographic distribution of economic indicators to identify the most impacted regions.
+
+![Global Overview](media/page_1.png)
+
+### Page 2: Forecasting & Trends
+Next, I moved to time-series analysis to project future outlooks based on historical post-COVID volatility.
+![Forecasting](media/page_2.png)
+
+### Page 3: Logistics & Energy Impact
+This section explores the correlation between supply chain disruptions and energy price fluctuations.
+![Logistics](media/page_3.png)
+
+### Page 4: AI-Driven Insights
+The final step uses the **Key Influencers** visual to mathematically determine which factors had the most significant impact on the target metrics.
+![Key Influencers](media/page_4.png)
+
+---
+
+##  Video Demonstration
+For a full interactive experience, you can watch the recorded walkthroughs:
+* [Part 1: UI & Global Trends](media/dashB_vid_part1.mp4)
+* [Part 2: Deep Dive & AI Visuals](media/dashB_vid_part2.mp4)
