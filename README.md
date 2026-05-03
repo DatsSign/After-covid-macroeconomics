@@ -19,6 +19,8 @@ The data cleaning phase was a **"meditative"** process, focusing on:
 * **Data Integrity Note:** In the raw dataset, Canada's reported Money Supply appeared larger than that of the USA. Since this indicates non-validated raw data, certain deep-dive opportunities were limited.
 * **Logic Preservation:** Despite these discrepancies, the core analytical logic and the relationship-mapping framework within the dashboard remain fully functional and structurally sound.
 
+![Global Overview](media/page_1.png)
+
 ---
 
 ## Technical Stack
